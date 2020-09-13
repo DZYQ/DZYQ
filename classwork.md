@@ -24,7 +24,7 @@ int s[]=new int[5];
 			
 		}
     ```
-![avatar](/Users/hp/Desktop/liucheng.png)
+![avatar](/c/Users/hp/Desktop/liucheng.png)
 ## 测试用例
 第一：0,1,2,3,4,5,6,7,8,9           
 第二：9,8,7,6,5,4,3,2,1,0           

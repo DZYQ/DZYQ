@@ -90,7 +90,7 @@
 
 买家：
 
-![img](file:///wps1.jpg) 
+![img](wps1.jpg) 
 
 卖家:
 

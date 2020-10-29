@@ -90,7 +90,7 @@
 
 买家：
 
-![img](file:///C:\Users\weikx\AppData\Local\Temp\ksohtml3984\wps1.jpg) 
+![img](file:///wps1.jpg) 
 
 卖家:
 
